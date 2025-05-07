@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/cc/1f/01/cc1f0142bade32b504a7ac64c571fdb8.gif"  />
-
-###
-
 <h2 align="left">Hi 👋, I'm Joaquim! A passionate Mobile Development student from Brazil.</h2>
 
 ###
@@ -22,10 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=doucebrume&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doucebrume&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/doucebrume/doucebrume/output/snake.svg" alt="Snake animation" />
 
 ###
 

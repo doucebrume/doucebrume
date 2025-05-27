@@ -3,16 +3,16 @@
 
 <!-- Subtítulo -->
 <h2 align="left" style="color:#39C5BB;">
-  Hi 👋, I'm Joaquim! A passionate Mobile Development student from Brazil.
+  Hi 👋, I'm Joaquim! A passionate UX Engineer student from Brazil.
 </h2>
 
 <!-- Sobre mim -->
 <p align="left" style="color:#39C5BB;">
-  🎓 I'm currently a high school student passionate about Mobile Development.
+  🎓 I am currently a high school student passionate about Front-end Development and UX/UI..
 </p>
 
 <p align="left" style="color:#39C5BB;">
-  🔭 I’m learning Kotlin and exploring the world of app development.
+  🔭 I’m learning Typescript and exploring the world of app development.
 </p>
 
 <!-- GitHub Stats -->
@@ -21,14 +21,14 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=doucebrume&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+          src="https://github-readme-stats.vercel.app/api?username=doucebrume&show_icons=true&include_all_commits=true&count_private=true&title_color=39C5BB&text_color=39C5BB&icon_color=39C5BB&bg_color=00000000"
           height="150" 
           alt="GitHub Stats" 
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=doucebrume&layout=compact&langs_count=5&theme=dracula" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=doucebrume&layout=compact&langs_count=5&title_color=39C5BB&text_color=39C5BB&icon_color=39C5BB&bg_color=00000000"
           height="150" 
           alt="Top Languages" 
         />
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-<!-- GIF bonitão -->
+<!-- GIF -->
 <div align="center">
   <img 
     height="400" 

@@ -1,16 +1,16 @@
-<h1 align="left">Hello World</h1>
+<h1 align="left" style="color:#39C5BB;">Hello World</h1>
 
 ###
 
-<h2 align="left">Hi 👋, I'm Joaquim! A passionate Mobile Development student from Brazil.</h2>
+<h2 align="left" style="color:#39C5BB;">Hi 👋, I'm Joaquim! A passionate Mobile Development student from Brazil.</h2>
 
 ###
 
-<p align="left">🎓 I'm currently a high school student passionate about Mobile Development.</p>
+<p align="left" style="color:#39C5BB;">🎓 I'm currently a high school student passionate about Mobile Development.</p>
 
 ###
 
-<p align="left">🔭 I’m learning Kotlin and exploring the world of app development.</p>
+<p align="left" style="color:#39C5BB;">🔭 I’m learning Kotlin and exploring the world of app development.</p>
 
 ###
 
@@ -43,11 +43,11 @@
 
 ###
 
-<h1 align="left">🔥 Skills</h1>
+<h1 align="left" style="color:#39C5BB;">🔥 Skills</h1>
 
 ###
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left" style="color:#39C5BB;">Programming Languages</h2>
 
 ###
 
@@ -55,21 +55,19 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
       </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-      </td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+    <td>
+    </td>
     </tr>
   </table>
 </div>
 
 ###
 
-<h2 align="left">Tools & Frameworks</h2>
+<h2 align="left" style="color:#39C5BB;">Tools & Frameworks</h2>
 
 ###
 
@@ -77,13 +75,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
       </td>
       <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
       </td>
     </tr>
   </table>
